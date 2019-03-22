@@ -1,0 +1,11 @@
+##
+# Vim
+##
+# swap
+[._]*.sw[a-z]
+[._]sw[a-z]
+# session
+Session.vim
+# temporary
+.netrwhist
+*~
